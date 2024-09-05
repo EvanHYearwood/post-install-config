@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li>Allow anyone to create a ticket after they’ve registered an account.</li>
 </ul>
 
-<h3>Details for Step 1: Configuration</h3>
+<h3>Outline for Step 1: Configuration</h3>
 
 <ul>
   <li><strong>Configure Roles</strong>
