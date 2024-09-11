@@ -5,6 +5,8 @@
 <h1>osTicket - Post-Install Configuration</h1>
 <p>This tutorial provides a detailed overview of the post-installation configuration process for the open-source help desk ticketing system, osTicket. In this phase, we will take the system from its initial setup (Alpha) to a fully operational help desk system, ready for handling real-world support tickets.</p>
 
+<h2>Video Demonstration</h2>
+
 - ### [YouTube: osTicket Tutorial (Phase 2/3) Configuration](https://youtu.be/bVHxq5_dTyE)
 
 <h2>Environments and Technologies Used</h2>
