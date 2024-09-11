@@ -22,7 +22,7 @@
 <h2>Phase 2: Configuration</h2>
 <p><strong>Goal:</strong> The goal of this phase is to take the osTicket system from its Alpha state (basic installation) into a fully operational system that can handle tickets, user requests, and support staff assignments.</p>
 
-<h3>Step 1: Set up and Configure Key Components</h3>
+<h3>Overview: Set up and Configure Key Components</h3>
 <p>In this step, we will configure important components within osTicket to ensure it functions effectively. These components include:</p>
 <ul>
   <li><strong>Roles:</strong> Assign roles to different agents, such as Admins and Support Staff, to manage access and permissions.</li>
@@ -34,10 +34,8 @@
   <li><strong>Help Desk Topics:</strong> Define help topics to categorize tickets based on the issues users may encounter.</li>
 </ul>
 
-<h3>Step 2: Enable the Ticketing System</h3>
-<p>In this step, we will configure osTicket to allow users to create tickets after registering an account. This ensures that the system is operational and ready to receive support requests from users.</p>
 
-<h3>Outline for Step 1: Configuration</h3>
+<h3>Outline</h3>
 
 <ul>
   <li><strong>Configure Roles</strong>
@@ -105,14 +103,9 @@
   </li>
 </ul>
 
-<h3>Outline for Step 2: Enable Ticketing</h3>
-<p>Once the configuration is complete, osTicket must be enabled to allow users to submit tickets. This step ensures that only registered users can create tickets, maintaining a secure and organized support system.</p>
+<h2>Conclusion</h2>
 
-<ul>
-  <li><strong>Allow anyone to create tickets</strong>
-    <ul>
-      <li>Navigate to: Admin Panel -> Settings -> User Settings</li>
-      <li>Enable "Registration Required" to ensure users register and log in before submitting tickets.</li>
-    </ul>
-  </li>
-</ul>
+<p>In this tutorial, we successfully transformed the osTicket system from its initial Alpha installation to a fully operational help desk capable of managing real-world support tickets. By configuring key components such as roles, departments, teams, agents, and users, we ensured that the system is well-structured for efficient ticket management. Setting up Service Level Agreements (SLAs) allowed us to prioritize and resolve issues within appropriate timeframes based on their severity, while help topics ensured proper categorization and routing of tickets to the correct departments.</p>
+
+<p>With this configuration, the osTicket system is now fully prepared to handle various support requests, providing an organized and responsive platform for users and support agents alike. This setup not only enhances operational efficiency but also improves customer satisfaction through timely and effective issue resolution.</p>
+
